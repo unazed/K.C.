@@ -1,4 +1,4 @@
-"""Ths program is for a special person called Kaci."""
+"""This program is for a special person called Kaci."""
 
 # from __future__ import braces # I'm using this import because
                                 # it describes the forbidden
